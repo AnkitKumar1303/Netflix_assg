@@ -1,5 +1,5 @@
 # Netflix_assg
-Github repo:
+Github repo:https://github.com/AnkitKumar1303/Netflix_assg
 
 Hosted Link:https://ankitkumar1303.github.io/Netflix_assg/
 <img width="1431" alt="Screenshot 2023-08-04 at 11 46 47 PM" src="https://github.com/AnkitKumar1303/Netflix_assg/assets/42855900/4c0c8a6b-e33d-4c25-a95f-238adc6717f8">
